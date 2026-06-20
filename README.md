@@ -65,7 +65,7 @@
 
 ### 📫 Connect with Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([zxnikhilkumar2005@gmail.com](https://mail.google.com/mail/u/0/#inbox))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/nikhil-kumar-6796263a3/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-6796263a3/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnikhil_016/)
 
 ---
