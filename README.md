@@ -59,7 +59,7 @@
 ---
 
 ### 🌟 Activity Graph  
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxnikhilkumar2005-bot)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
