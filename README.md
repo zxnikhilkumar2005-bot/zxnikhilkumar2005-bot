@@ -47,14 +47,14 @@
 
 ### 📊 GitHub Stats  
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxnikhilkumar2005-bot&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxnikhilkumar2005-bot&theme=radical)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxnikhilkumar2005-bot&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zxnikhilkumar2005-bot&theme=tokyonight&no-frame=false&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
